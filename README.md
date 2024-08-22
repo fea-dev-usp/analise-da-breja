@@ -71,5 +71,11 @@ Os resultados das análises podem ser conferidos nos arquivos Jupyter Notebook (
 
 ## Créditos
 
-* [Guilherme Freitas](https://github.com/GvFreitas1)
 * [Felipe Melo](https://github.com/Felipe0899)
+* [Gabriel Navarro](https://github.com/GB-Navarro)
+* [Guilherme Freitas](https://github.com/GvFreitas1)
+* [Julia Vieira](https://github.com/juliacvieira)
+* [Miguel Feitosa](https://github.com/Miguelrfeitosa2)
+* [Paulo Sergio](https://github.com/lauposergio)
+* [Rafael Derrico Abreu](https://github.com/rafaeldrc)
+
