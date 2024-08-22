@@ -18,9 +18,9 @@
   <a href="https://github.com/GB-Navarro">[![GitHub Badge](https://img.shields.io/badge/GB-Navarro-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/GB-Navarro)</a>
   <a href="https://github.com/GvFreitas1">[![GitHub Badge](https://img.shields.io/badge/GvFreitas1-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/GvFreitas1)</a>
   <a href="https://github.com/juliacvieira">[![GitHub Badge](https://img.shields.io/badge/juliacvieira-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/juliacvieira)</a>
-  <a href="https://github.com/Miguelrfeitosa2)">[![GitHub Badge](https://img.shields.io/badge/Miguelrfeitosa2-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Miguelrfeitosa2))</a>
-  <a href="https://github.com/lauposergio)">[![GitHub Badge](https://img.shields.io/badge/lauposergio-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/lauposergio))</a>
-  <a href="https://github.com/rafaeldrc)">[![GitHub Badge](https://img.shields.io/badge/rafaeldrc-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/rafaeldrc))</a>
+  <a href="https://github.com/Miguelrfeitosa2)">[![GitHub Badge](https://img.shields.io/badge/Miguelrfeitosa2-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Miguelrfeitosa2)</a>
+  <a href="https://github.com/lauposergio)">[![GitHub Badge](https://img.shields.io/badge/lauposergio-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/lauposergio)</a>
+  <a href="https://github.com/rafaeldrc)">[![GitHub Badge](https://img.shields.io/badge/rafaeldrc-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/rafaeldrc)</a>
   
 
 </div>
