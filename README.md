@@ -14,8 +14,8 @@
 
 <div align="center">
 
-  *Participantes:*  <a href="https://github.com/Felipe0899">[![GitHub Badge](https://img.shields.io/badge/Felipe0899-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Adrielle123abreu)</a> 
-  <a href="https://github.com/GvFreitas1">[![GitHub Badge](https://img.shields.io/badge/GvFreitas1-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mabibis)</a>
+  *Participantes:*  <a href="https://github.com/Felipe0899">[![GitHub Badge](https://img.shields.io/badge/Felipe0899-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Felipe0899)</a> 
+  <a href="https://github.com/GvFreitas1">[![GitHub Badge](https://img.shields.io/badge/GvFreitas1-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/GvFreitas1)</a>
 
 </div>
 
@@ -68,3 +68,8 @@ pip install pandas
 ## Resultados 💛🖤
 
 Os resultados das análises podem ser conferidos nos arquivos Jupyter Notebook (.ipynb) disponíveis neste repositório, bem como na [publicação feita no perfil do FEA.dev no Instagram]().
+
+## Créditos
+
+* [Guilherme Freitas](https://github.com/GvFreitas1)
+* [Felipe Melo](https://github.com/Felipe0899)
